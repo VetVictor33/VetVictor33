@@ -32,7 +32,7 @@ I'm a veterinarian and I'm in a career transition to the area of technology. I a
 <div align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VetVictor33&theme=nightowl&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VetVictor33&theme=nightowl&hide_border=true&locale=eng&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
