@@ -1,4 +1,4 @@
-# Hi 👋,, I'm Victor Feliciano! 
+# Hi 👋, I'm Victor Feliciano! 
 
 <div align="center">
   <a href="https://linkedin.com/in/victorjfeliciano" target="_blank">
