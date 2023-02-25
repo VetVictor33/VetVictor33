@@ -19,20 +19,22 @@
 <details open>
 <summary><small>PT-BR</small></summary>
 
-Apaixonado por literatura, política e ciência. Adoro uma boa conversa com pessoas com visões e experiências diferentes das minhas. Sou viciado em aprender idiomas e um dia quero saber falar todas as línguas. 
 
-Atualmente estou em transição de carreira para a programação com a ajuda do curso de Desenvolvedor de Software Full-Stack da Cubos Academy. Posso conhecimentos intermediários em JavaScrip, Node.js, npm, HTML, CSS, Git, além de contato básico com Java, Python, C, React, Angular e SQL, entre outras, por meio de cursos complementares.
+Grande fã de literatura e do aprendizado idiomas, sou uma pessoa que se sente feliz ao vivenciar novas experiências. 
 
-Tenho como área de origem a medicina veterinária, profissão na qual tive a oportunidade de desenvolver meus soft skills ao lidar com colegas e tutores de cães e gatos em diversas situações.
+Médico veterinário, trabalho no meio há mais de 3 anos, porém decidi mudar o rumo da minha carreira e embarcar na área da tecnologia e desenvolvimento de software.
 
- Meu objetivo atual é migrar para a área da tecnologia trabalhando com desenvolvimento de software front-end ou back-end.
+Iniciei um curso de 10 meses de desenvolvimento full-stack em outubro de 2022. Nesses últimos meses tenho direcionado meus esforços em sedimentar os conhecimentos de front-end, back-end e lógica de programação no geral.
 
+Hoje estou focado em JavaScript, HTML, CSS, Node e React como tecnologias principais, porém possuo algum conhecimento em outras tecnologias (Python, C, entre outras) que ajudaram a fortalecer meu pensamento lógico e abstrato e me permitiram evoluir como programador.
+
+Meu objetivo atual é iniciar minha carreira como desenvolvedor de software.
 </details>
 
 <details>
 <summary><small>ENG</small></summary>
 
-I'm a veterinarian and I'm in a career transition to the area of technology. I am currently studying full-time at Cubes Academy and work on weekends. 
+I'm a veterinarian and I'm in a career transition to the area of technology.
 
 </details>
 
