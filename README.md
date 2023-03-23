@@ -13,8 +13,8 @@
 ### About me
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VetVictor33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetvictor33&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 <details open>
 <summary><small>PT-BR</small></summary>
