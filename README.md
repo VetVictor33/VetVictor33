@@ -66,7 +66,6 @@ I'm a veterinarian and I'm in a career transition to the area of technology.
 ### Technologies that I have some knowledge, but don't use much
 
 <div style ="display: flex" >
-<img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
 <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
