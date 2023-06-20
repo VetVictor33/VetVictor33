@@ -19,7 +19,7 @@
 <details open>
 <summary><small>PT-BR</small></summary>
 
-Grande fã de literatura e do aprendizado idiomas, sou uma pessoa que se sente feliz ao vivenciar novas experiências. Sou formado em medicina veterinária, trabalhei no mercado pet por mais de 3 anos, porém decidi mudar o rumo da minha carreira e embarcar na área da tecnologia e desenvolvimento de software.
+Grande fã de literatura e do aprendizado idiomas, sou uma pessoa que se sente feliz ao vivenciar novas experiências. Sou formado em medicina veterinária, trabalhei no mercado pet por mais de 4 anos, porém decidi mudar o rumo da minha carreira e embarcar na área da tecnologia e desenvolvimento de software.
 
 Atualmente desenvolvo projetos utilizando JavaScript, Node, SQL, HTML5, CSS3, React, NextJs, e CMS e estou buscando aprimorar meus conhecimentos em NextJs e outras tecnologias de front end. Já realizei cursos livres e sei o básico de C, JAVA, Python, MongoDB, Bootstrap e Pug.
 
