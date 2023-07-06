@@ -21,7 +21,7 @@ Grande fã de literatura e do aprendizado idiomas, sou uma pessoa que se sente f
 
 Atualmente desenvolvo projetos utilizando TypeScript, JavaScript, Node, SQL, HTML5, CSS3, React, NextJs, e CMS e estou buscando aprimorar meus conhecimentos em NextJs e outras tecnologias de front end. Já realizei cursos livres e sei o básico de C, JAVA, Python, MongoDB, Bootstrap e Pug.
 
-Meu objetivo atuar como full stack ou front end.
+Meu objetivo é atuar como front end ou back end, porém estou aberto a desafios.
 
 <div align="center">
 
