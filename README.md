@@ -17,10 +17,9 @@
   
 </div
 
-Grande fã de literatura e do aprendizado idiomas, sou uma pessoa que se sente feliz ao vivenciar novas experiências. Sou formado em medicina veterinária, trabalhei no mercado pet por mais de 4 anos, porém decidi mudar o rumo da minha carreira e embarcar na área da tecnologia e desenvolvimento de software.
-
-Atualmente desenvolvo projetos utilizando TypeScript, JavaScript, Node, SQL, HTML5, CSS3, React, NextJs, e CMS e estou buscando aprimorar meus conhecimentos em NextJs e outras tecnologias de front end. Já realizei cursos livres e sei o básico de C, JAVA, Python, MongoDB, Bootstrap e Pug.
-
+Estou iniciando minha carreia na área da tecnologia. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente.
+ Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, AdonisJs, PostgresSQL, MongoDB, React, e Git e GitHub.
+ Realizei cursos livres iniciantes e tenho conhecimento básico em C, JAVA, Python, Bootstrap, CSS Less e Pug.
 Meu objetivo é atuar como front end ou back end, porém estou aberto a desafios.
 
 <div align="center">
