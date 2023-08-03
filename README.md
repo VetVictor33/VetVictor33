@@ -17,7 +17,7 @@
   
 </div
 
-Estou iniciando minha carreia na área da tecnologia. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente.
+Estou iniciando minha carreia na área da tecnologia. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente. Realizei transição de carreira por motivos de saúde que me impediram de prosseguir na veterinária.
 
  Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, AdonisJs, PostgresSQL, MongoDB, React, e Git e GitHub.
  Realizei cursos livres iniciantes e tenho conhecimento básico em C, JAVA, Python, Bootstrap, CSS Less e Pug.
