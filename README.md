@@ -1,4 +1,4 @@
-# Hi 👋, I'm Victor Feliciano! 
+# Olá 👋, me chamo Victor Feliciano! 
 
 <div align="center">
   <a href="https://linkedin.com/in/victorjfeliciano" target="_blank">
@@ -10,17 +10,19 @@
   </a>
 </div>
 
-### About me
+### Sobre mim
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetvictor33&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
   
 </div
 
-Estou iniciando minha carreia na área da tecnologia. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente. Realizei transição de carreira por motivos de saúde que me impediram de prosseguir na veterinária.
+ Estou no início de minha carreia na área da programação. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente. Realizei transição de carreira por questões de saúde que me impediram de seguir trabalhando integralmente como veterinário.
 
- Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, AdonisJs, PostgresSQL, MongoDB, React, e Git e GitHub.
- Realizei cursos livres iniciantes e tenho conhecimento básico em C, JAVA, Python, Bootstrap, CSS Less e Pug.
+ 
+ Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, AdonisJs, PostgresSQL, MongoDB, ReactJs, NextJs, Tailwind e Git e GitHub.
+ Realizei cursos livres iniciantes em C, JAVA, Python, Bootstrap, CSS Less e Pug.
+
  
 Meu objetivo é atuar como front end ou back end, porém estou aberto a desafios.
 
