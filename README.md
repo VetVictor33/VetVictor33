@@ -17,14 +17,11 @@
   
 </div
 
- Estou no início de minha carreia na área da programação. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente. Realizei transição de carreira por questões de saúde que me impediram de seguir trabalhando integralmente como veterinário.
+ Estou no início de minha carreira na área da programação. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente. Realizei transição de carreira por questões de saúde que me impediram de seguir trabalhando integralmente como veterinário.
 
- 
- Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, AdonisJs, PostgresSQL, MongoDB, ReactJs, NextJs, Tailwind e Git e GitHub.
- Realizei cursos livres iniciantes em C, JAVA, Python, Bootstrap, CSS Less e Pug.
+ Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, Fastify, PostgreSQL, TypeORM, Prisma, MongoDB, ReactJs, NextJs, Tailwind, Styled Components e Git e GitHub. Além disso, estou aprimorando meus conhecimentos em Cloud Computing para conquistar o certificado de Cloud Practitioner da AWS.
 
- 
-Meu objetivo é atuar como front end ou back end, porém estou aberto a desafios.
+ No momento participo do programa de residência da Cubos Academy que me permite acelerar minha carreira ao participar de projetos com clientes reais e com tecnologias trabalhadas no mercado, tudo organizado por meio da metodologia ágil SCRUM.
 
 <div align="center">
 
