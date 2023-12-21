@@ -17,11 +17,11 @@
   
 </div
 
- Estou no início de minha carreira na área da programação. Trabalhei por mais de 4 anos no mercado pet, quando pude desenvolver habilidades como trabalho em equipe, comunicação, resolução de problemas, empatia, proatividade e atendimento ao cliente. Realizei transição de carreira por questões de saúde que me impediram de seguir trabalhando integralmente como veterinário.
+Desenvolvedor Full Stack com amplo conhecimento em JavaScript, TypeScript e Node, utilizando tecnologias como Fastify, PostgreSQL, TypeORM, Prisma, MongoDB, ReactJs, NextJs, Tailwind e Styled Components. Possuo experiência sólida em sistemas de controle de versão com Git/GitHub/GitLab. Recentemente, conquistei o certificado AWS Certified Cloud Practitioner, solidificando minha competência em Cloud Computing.
 
- Atualmente desenvolvo projetos utilizando JavaScript, TypeScript, Node, Fastify, PostgreSQL, TypeORM, Prisma, MongoDB, ReactJs, NextJs, Tailwind, Styled Components e Git e GitHub. Além disso, estou aprimorando meus conhecimentos em Cloud Computing para conquistar o certificado de Cloud Practitioner da AWS.
+Com uma base profissional de mais de 4 anos no mercado pet, desenvolvi habilidades essenciais, como trabalho em equipe, comunicação eficaz, resolução de problemas, empatia, proatividade e atendimento ao cliente. A transição de carreira foi motivada por questões de saúde que, embora tenham impedido a continuidade integral na veterinária, abriram portas para a minha paixão pela tecnologia.
 
- No momento participo do programa de residência da Cubos Academy que me permite acelerar minha carreira ao participar de projetos com clientes reais e com tecnologias trabalhadas no mercado, tudo organizado por meio da metodologia ágil SCRUM.
+Atualmente, sou participante do programa de residência da Cubos Academy, uma experiência enriquecedora que me permite acelerar minha carreira através da colaboração em projetos com clientes reais e a aplicação prática de tecnologias relevantes do mercado, tudo conduzido pela metodologia ágil SCRUM.
 
 <div align="center">
 
