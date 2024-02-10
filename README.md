@@ -17,11 +17,15 @@
   
 </div
 
-Desenvolvedor Full Stack com amplo conhecimento em JavaScript, TypeScript e Node, utilizando tecnologias como Fastify, PostgreSQL, TypeORM, Prisma, MongoDB, ReactJs, NextJs, Tailwind e Styled Components. Possuo experiência sólida em sistemas de controle de versão com Git/GitHub/GitLab. Recentemente, conquistei o certificado AWS Certified Cloud Practitioner, solidificando minha competência em Cloud Computing.
+Programador apaixonado por tecnologia com experiência em desenvolvimento de software back-end e front-end.
 
-Com uma base profissional de mais de 4 anos no mercado pet, desenvolvi habilidades essenciais, como trabalho em equipe, comunicação eficaz, resolução de problemas, empatia, proatividade e atendimento ao cliente. A transição de carreira foi motivada por questões de saúde que, embora tenham impedido a continuidade integral na veterinária, abriram portas para a minha paixão pela tecnologia.
+ Movido por desafios e novos aprendizados, busco oportunidades para solidificar minha carreira e contribuir para o sucesso de uma empresa inovadora.
 
-Atualmente, sou participante do programa de residência da Cubos Academy, uma experiência enriquecedora que me permite acelerar minha carreira através da colaboração em projetos com clientes reais e a aplicação prática de tecnologias relevantes do mercado, tudo conduzido pela metodologia ágil SCRUM.
+ Ao longo de minha jornada profissional, tive a oportunidade de participar de projetos desafiadores que me proporcionaram um crescimento profissional significativo. Em apenas um ano de atuação, desenvolvi habilidades e conhecimentos técnicos sólidos em JavaScript, TypeScript e Node, além das ferramentas de controle de versão Git, GitHub e GitLab. Também possuo a credencial de AWS Certified Cloud Practitioner por considerar a Computação em Nuvem umas das áreas mais promissoras da tecnologia.
+
+Minha experiência profissional na área da saúde animal me proporcionou o desenvolvimento de habilidades interpessoais e maturidade essenciais para o sucesso em qualquer ambiente de trabalho.
+
+Motivado por novos desafios e pela paixão pela tecnologia, decidi mudar de área e me dedicar à programação. Acredito que minhas habilidades e conhecimentos me tornam um profissional completo e versátil, pronto para contribuir para o crescimento da empresa e continuar aprendendo e evoluindo em minha carreira.
 
 <div align="center">
 
