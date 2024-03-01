@@ -21,11 +21,11 @@ Programador apaixonado por tecnologia com experiência em desenvolvimento de sof
 
  Movido por desafios e novos aprendizados, busco oportunidades para solidificar minha carreira e contribuir para o sucesso de uma empresa inovadora.
 
- Ao longo de minha jornada profissional, tive a oportunidade de participar de projetos desafiadores que me proporcionaram um crescimento profissional significativo. Em apenas um ano de atuação, desenvolvi habilidades e conhecimentos técnicos sólidos em JavaScript, TypeScript e Node, além das ferramentas de controle de versão Git, GitHub e GitLab. Também possuo a credencial de AWS Certified Cloud Practitioner por considerar a Computação em Nuvem umas das áreas mais promissoras da tecnologia.
+ Ao longo de minha jornada profissional, tive a oportunidade de participar de projetos desafiadores que me proporcionaram um crescimento profissional significativo. Venho desenvolvendo habilidades e conhecimentos técnicos sólidos em JavaScript, TypeScript, Node e Python, além das ferramentas de controle de versão Git, GitHub e GitLab. Também possuo a credencial AWS Certified Cloud Practitioner por considerar a Computação em Nuvem umas das áreas mais promissoras da tecnologia.
 
-Minha experiência profissional na área da saúde animal me proporcionou o desenvolvimento de habilidades interpessoais e maturidade essenciais para o sucesso em qualquer ambiente de trabalho.
+Minha experiência profissional na área da saúde animal por mais de 4 anos me proporcionou o desenvolvimento de habilidades interpessoais e maturidade essenciais para o sucesso em qualquer ambiente de trabalho.
 
-Motivado por novos desafios e pela paixão pela tecnologia, decidi mudar de área e me dedicar à programação. Acredito que minhas habilidades e conhecimentos me tornam um profissional completo e versátil, pronto para contribuir para o crescimento da empresa e continuar aprendendo e evoluindo em minha carreira.
+ Motivado por novos desafios e pela paixão pela tecnologia, decidi mudar de área e me dedicar à programação. Acredito que minhas habilidades e conhecimentos me tornam um profissional completo e versátil, pronto para contribuir para o crescimento da empresa e continuar aprendendo e evoluindo em minha carreira.
 
 <div align="center">
 
