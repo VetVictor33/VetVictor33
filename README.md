@@ -44,11 +44,7 @@ Programador apaixonado por tecnologia com experiência em desenvolvimento de sof
 </div>
 
  Ao longo de minha jornada profissional, tive a oportunidade de participar de projetos desafiadores que me proporcionaram um crescimento profissional significativo. Venho desenvolvendo habilidades e conhecimentos técnicos sólidos em JavaScript, TypeScript, Node e Python, além das ferramentas de controle de versão Git, GitHub e GitLab. Também possuo a credencial AWS Certified Cloud Practitioner por considerar a Computação em Nuvem umas das áreas mais promissoras da tecnologia.
-
- Minha experiência profissional na área da saúde animal por mais de 4 anos me proporcionou o desenvolvimento de habilidades interpessoais e maturidade essenciais para o sucesso em qualquer ambiente de trabalho.
-
- Motivado por novos desafios e pela paixão pela tecnologia, decidi mudar de área e me dedicar à programação. Acredito que minhas habilidades e conhecimentos me tornam um profissional completo e versátil, pronto para contribuir para o crescimento da empresa e continuar aprendendo e evoluindo em minha carreira.
-
+ 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetvictor33&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
