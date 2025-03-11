@@ -1,4 +1,4 @@
-# Olá 👋, me chamo Victor Jordão! 
+# Olá 👋, me chamo Victor Hugo Jordão! 
 
 <div align="center">
   <a href="https://linkedin.com/in/victorjfeliciano" target="_blank">
